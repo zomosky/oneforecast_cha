@@ -1,0 +1,61 @@
+{
+  "type": "float-area",
+  "_widgets": [
+    [
+      {
+        "widget": {
+          "constructionOptions": {
+            "factoryId": "code-editor-opener",
+            "options": {
+              "kind": "navigatable",
+              "uri": "file:///Users/zmy/pycharm/OneForecast/inference.py",
+              "floatAreaId": "1214798b-033f-4cd2-a434-c5231498856b"
+            }
+          },
+          "innerWidgetState": {
+            "cursorState": [
+              {
+                "inSelectionMode": false,
+                "selectionStart": {
+                  "lineNumber": 1,
+                  "column": 1
+                },
+                "position": {
+                  "lineNumber": 1,
+                  "column": 1
+                }
+              }
+            ],
+            "viewState": {
+              "scrollLeft": 0,
+              "firstPosition": {
+                "lineNumber": 155,
+                "column": 79
+              },
+              "firstPositionDeltaTop": -5
+            },
+            "contributionsState": {
+              "editor.contrib.folding": {
+                "lineCount": 250,
+                "provider": "indent",
+                "foldedImports": false
+              },
+              "editor.contrib.wordHighlighter": false
+            }
+          }
+        },
+        "width": 574,
+        "height": 450,
+        "spacing": 0
+      }
+    ]
+  ],
+  "_widths": [
+    574
+  ],
+  "_modelData": {
+    "connections": [],
+    "annotations": [],
+    "highlights": []
+  }
+}
