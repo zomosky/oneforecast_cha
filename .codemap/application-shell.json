@@ -1,0 +1,441 @@
+{
+  "bottomPanel": {
+    "config": {
+      "main": {
+        "type": "tab-area",
+        "widgets": [
+          {
+            "constructionOptions": {
+              "factoryId": "problems"
+            },
+            "innerWidgetState": {}
+          }
+        ],
+        "currentIndex": 0
+      }
+    },
+    "expanded": false
+  },
+  "leftPanel": {
+    "type": "sidepanel",
+    "items": [
+      {
+        "widget": {
+          "constructionOptions": {
+            "factoryId": "explorer-view-container"
+          },
+          "innerWidgetState": {
+            "parts": [
+              {
+                "widget": {
+                  "constructionOptions": {
+                    "factoryId": "files"
+                  },
+                  "innerWidgetState": {
+                    "decorations": {
+                      "/Users/zmy/pycharm/OneForecast": [
+                        {
+                          "fontData": {
+                            "color": "rgba(255, 148, 0, .5)"
+                          }
+                        }
+                      ],
+                      "/Users/zmy/pycharm/OneForecast:/Users/zmy/pycharm/OneForecast/models": [
+                        {
+                          "fontData": {
+                            "color": "rgba(255, 148, 0, .5)"
+                          }
+                        }
+                      ],
+                      "/Users/zmy/pycharm/OneForecast:/Users/zmy/pycharm/OneForecast/models/OneForecast.py": [
+                        {
+                          "fontData": {
+                            "color": "rgba(255, 148, 0, 1)"
+                          }
+                        }
+                      ],
+                      "/Users/zmy/pycharm/OneForecast:/Users/zmy/pycharm/OneForecast/my_utils": [
+                        {
+                          "fontData": {
+                            "color": "rgba(255, 148, 0, .5)"
+                          }
+                        }
+                      ],
+                      "/Users/zmy/pycharm/OneForecast:/Users/zmy/pycharm/OneForecast/my_utils/data_loader.py": [
+                        {
+                          "fontData": {
+                            "color": "rgba(255, 148, 0, 1)"
+                          }
+                        }
+                      ],
+                      "/Users/zmy/pycharm/OneForecast:/Users/zmy/pycharm/OneForecast/inference.py": [
+                        {
+                          "fontData": {
+                            "color": "rgba(255, 148, 0, 1)"
+                          }
+                        }
+                      ]
+                    },
+                    "root": {
+                      "id": "WorkspaceNodeId",
+                      "name": "WorkspaceNode",
+                      "children": [
+                        {
+                          "id": "/Users/zmy/pycharm/OneForecast",
+                          "uri": "file:///Users/zmy/pycharm/OneForecast",
+                          "expanded": true,
+                          "selected": false,
+                          "children": [
+                            {
+                              "id": "/Users/zmy/pycharm/OneForecast:/Users/zmy/pycharm/OneForecast/.codemap",
+                              "uri": "file:///Users/zmy/pycharm/OneForecast/.codemap",
+                              "expanded": false,
+                              "selected": false,
+                              "children": [],
+                              "stat": {
+                                "type": 2
+                              }
+                            },
+                            {
+                              "id": "/Users/zmy/pycharm/OneForecast:/Users/zmy/pycharm/OneForecast/ckpt",
+                              "uri": "file:///Users/zmy/pycharm/OneForecast/ckpt",
+                              "expanded": false,
+                              "selected": false,
+                              "children": [],
+                              "stat": {
+                                "type": 2
+                              }
+                            },
+                            {
+                              "id": "/Users/zmy/pycharm/OneForecast:/Users/zmy/pycharm/OneForecast/data",
+                              "uri": "file:///Users/zmy/pycharm/OneForecast/data",
+                              "expanded": false,
+                              "selected": false,
+                              "children": [],
+                              "stat": {
+                                "type": 2
+                              }
+                            },
+                            {
+                              "id": "/Users/zmy/pycharm/OneForecast:/Users/zmy/pycharm/OneForecast/exp",
+                              "uri": "file:///Users/zmy/pycharm/OneForecast/exp",
+                              "expanded": false,
+                              "selected": false,
+                              "children": [],
+                              "stat": {
+                                "type": 2
+                              }
+                            },
+                            {
+                              "id": "/Users/zmy/pycharm/OneForecast:/Users/zmy/pycharm/OneForecast/img",
+                              "uri": "file:///Users/zmy/pycharm/OneForecast/img",
+                              "expanded": false,
+                              "selected": false,
+                              "children": [],
+                              "stat": {
+                                "type": 2
+                              }
+                            },
+                            {
+                              "id": "/Users/zmy/pycharm/OneForecast:/Users/zmy/pycharm/OneForecast/logs",
+                              "uri": "file:///Users/zmy/pycharm/OneForecast/logs",
+                              "expanded": false,
+                              "selected": false,
+                              "children": [],
+                              "stat": {
+                                "type": 2
+                              }
+                            },
+                            {
+                              "id": "/Users/zmy/pycharm/OneForecast:/Users/zmy/pycharm/OneForecast/models",
+                              "uri": "file:///Users/zmy/pycharm/OneForecast/models",
+                              "expanded": true,
+                              "selected": false,
+                              "children": [
+                                {
+                                  "id": "/Users/zmy/pycharm/OneForecast:/Users/zmy/pycharm/OneForecast/models/Fengwu.py",
+                                  "uri": "file:///Users/zmy/pycharm/OneForecast/models/Fengwu.py",
+                                  "selected": false,
+                                  "stat": {
+                                    "type": 1
+                                  }
+                                },
+                                {
+                                  "id": "/Users/zmy/pycharm/OneForecast:/Users/zmy/pycharm/OneForecast/models/Fuxi.py",
+                                  "uri": "file:///Users/zmy/pycharm/OneForecast/models/Fuxi.py",
+                                  "selected": false,
+                                  "focus": false,
+                                  "stat": {
+                                    "type": 1
+                                  }
+                                },
+                                {
+                                  "id": "/Users/zmy/pycharm/OneForecast:/Users/zmy/pycharm/OneForecast/models/GraphCast.py",
+                                  "uri": "file:///Users/zmy/pycharm/OneForecast/models/GraphCast.py",
+                                  "selected": false,
+                                  "focus": false,
+                                  "stat": {
+                                    "type": 1
+                                  }
+                                },
+                                {
+                                  "id": "/Users/zmy/pycharm/OneForecast:/Users/zmy/pycharm/OneForecast/models/OneForecast.py",
+                                  "uri": "file:///Users/zmy/pycharm/OneForecast/models/OneForecast.py",
+                                  "selected": false,
+                                  "focus": false,
+                                  "stat": {
+                                    "type": 1
+                                  }
+                                },
+                                {
+                                  "id": "/Users/zmy/pycharm/OneForecast:/Users/zmy/pycharm/OneForecast/models/Pangu.py",
+                                  "uri": "file:///Users/zmy/pycharm/OneForecast/models/Pangu.py",
+                                  "selected": false,
+                                  "focus": false,
+                                  "stat": {
+                                    "type": 1
+                                  }
+                                }
+                              ],
+                              "stat": {
+                                "type": 2,
+                                "ctime": 1740978521000,
+                                "mtime": 1740978521000,
+                                "size": 224
+                              }
+                            },
+                            {
+                              "id": "/Users/zmy/pycharm/OneForecast:/Users/zmy/pycharm/OneForecast/my_utils",
+                              "uri": "file:///Users/zmy/pycharm/OneForecast/my_utils",
+                              "expanded": true,
+                              "selected": false,
+                              "children": [
+                                {
+                                  "id": "/Users/zmy/pycharm/OneForecast:/Users/zmy/pycharm/OneForecast/my_utils/data_loader.py",
+                                  "uri": "file:///Users/zmy/pycharm/OneForecast/my_utils/data_loader.py",
+                                  "selected": true,
+                                  "focus": false,
+                                  "stat": {
+                                    "type": 1
+                                  }
+                                },
+                                {
+                                  "id": "/Users/zmy/pycharm/OneForecast:/Users/zmy/pycharm/OneForecast/my_utils/logging_utils.py",
+                                  "uri": "file:///Users/zmy/pycharm/OneForecast/my_utils/logging_utils.py",
+                                  "selected": false,
+                                  "stat": {
+                                    "type": 1
+                                  }
+                                },
+                                {
+                                  "id": "/Users/zmy/pycharm/OneForecast:/Users/zmy/pycharm/OneForecast/my_utils/norm.py",
+                                  "uri": "file:///Users/zmy/pycharm/OneForecast/my_utils/norm.py",
+                                  "selected": false,
+                                  "stat": {
+                                    "type": 1
+                                  }
+                                },
+                                {
+                                  "id": "/Users/zmy/pycharm/OneForecast:/Users/zmy/pycharm/OneForecast/my_utils/YParams.py",
+                                  "uri": "file:///Users/zmy/pycharm/OneForecast/my_utils/YParams.py",
+                                  "selected": false,
+                                  "stat": {
+                                    "type": 1
+                                  }
+                                }
+                              ],
+                              "focus": false,
+                              "stat": {
+                                "type": 2,
+                                "ctime": 1740978521000,
+                                "mtime": 1740978521000,
+                                "size": 192
+                              }
+                            },
+                            {
+                              "id": "/Users/zmy/pycharm/OneForecast:/Users/zmy/pycharm/OneForecast/ckpt_OneForecast.tar",
+                              "uri": "file:///Users/zmy/pycharm/OneForecast/ckpt_OneForecast.tar",
+                              "selected": false,
+                              "stat": {
+                                "type": 1
+                              }
+                            },
+                            {
+                              "id": "/Users/zmy/pycharm/OneForecast:/Users/zmy/pycharm/OneForecast/environment.yml",
+                              "uri": "file:///Users/zmy/pycharm/OneForecast/environment.yml",
+                              "selected": false,
+                              "stat": {
+                                "type": 1
+                              }
+                            },
+                            {
+                              "id": "/Users/zmy/pycharm/OneForecast:/Users/zmy/pycharm/OneForecast/inference.py",
+                              "uri": "file:///Users/zmy/pycharm/OneForecast/inference.py",
+                              "selected": true,
+                              "focus": true,
+                              "stat": {
+                                "type": 1
+                              }
+                            },
+                            {
+                              "id": "/Users/zmy/pycharm/OneForecast:/Users/zmy/pycharm/OneForecast/inference.sh",
+                              "uri": "file:///Users/zmy/pycharm/OneForecast/inference.sh",
+                              "selected": false,
+                              "focus": false,
+                              "stat": {
+                                "type": 1
+                              }
+                            },
+                            {
+                              "id": "/Users/zmy/pycharm/OneForecast:/Users/zmy/pycharm/OneForecast/LICENSE",
+                              "uri": "file:///Users/zmy/pycharm/OneForecast/LICENSE",
+                              "selected": false,
+                              "stat": {
+                                "type": 1
+                              }
+                            },
+                            {
+                              "id": "/Users/zmy/pycharm/OneForecast:/Users/zmy/pycharm/OneForecast/README.md",
+                              "uri": "file:///Users/zmy/pycharm/OneForecast/README.md",
+                              "selected": false,
+                              "stat": {
+                                "type": 1
+                              }
+                            }
+                          ],
+                          "visible": false,
+                          "focus": false,
+                          "stat": {
+                            "type": 2,
+                            "ctime": 1740978521000,
+                            "mtime": 1744269801381,
+                            "size": 544
+                          }
+                        }
+                      ],
+                      "visible": false,
+                      "selected": false
+                    },
+                    "model": {
+                      "selection": {
+                        "selectionStack": [
+                          {
+                            "focus": "/Users/zmy/pycharm/OneForecast:/Users/zmy/pycharm/OneForecast/my_utils/data_loader.py",
+                            "node": "/Users/zmy/pycharm/OneForecast:/Users/zmy/pycharm/OneForecast/my_utils/data_loader.py",
+                            "type": 1
+                          },
+                          {
+                            "focus": "/Users/zmy/pycharm/OneForecast:/Users/zmy/pycharm/OneForecast/inference.py",
+                            "node": "/Users/zmy/pycharm/OneForecast:/Users/zmy/pycharm/OneForecast/inference.py",
+                            "type": 1
+                          }
+                        ]
+                      }
+                    }
+                  }
+                },
+                "partId": "{\"factoryId\":\"files\"}",
+                "collapsed": false,
+                "hidden": false,
+                "relativeSize": 1
+              },
+              {
+                "widget": {
+                  "constructionOptions": {
+                    "factoryId": "plugin-view",
+                    "options": {
+                      "id": "plugin-view:go.explorer",
+                      "viewId": "go.explorer"
+                    }
+                  },
+                  "innerWidgetState": {
+                    "label": "go",
+                    "widgets": []
+                  }
+                },
+                "partId": "{\"factoryId\":\"plugin-view\",\"options\":{\"id\":\"plugin-view:go.explorer\",\"viewId\":\"go.explorer\"}}",
+                "collapsed": true,
+                "hidden": true
+              },
+              {
+                "widget": {
+                  "constructionOptions": {
+                    "factoryId": "plugin-view",
+                    "options": {
+                      "id": "plugin-view:npm",
+                      "viewId": "npm"
+                    }
+                  },
+                  "innerWidgetState": {
+                    "label": "NPM Scripts",
+                    "widgets": []
+                  }
+                },
+                "partId": "{\"factoryId\":\"plugin-view\",\"options\":{\"id\":\"plugin-view:npm\",\"viewId\":\"npm\"}}",
+                "collapsed": true,
+                "hidden": true
+              }
+            ],
+            "title": {
+              "label": "资源树",
+              "iconClass": "codemap-files-icon",
+              "closeable": true
+            }
+          }
+        },
+        "rank": 100,
+        "expanded": true
+      },
+      {
+        "widget": {
+          "constructionOptions": {
+            "factoryId": "search-in-workspace"
+          },
+          "innerWidgetState": {
+            "matchCaseState": {
+              "className": "match-case",
+              "enabled": true,
+              "title": "Match Case"
+            },
+            "wholeWordState": {
+              "className": "whole-word",
+              "enabled": true,
+              "title": "Match Whole Word"
+            },
+            "regExpState": {
+              "className": "use-regexp",
+              "enabled": false,
+              "title": "Use Regular Expression"
+            },
+            "includeIgnoredState": {
+              "className": "include-ignored fa fa-eye",
+              "enabled": false,
+              "title": "Include Ignored Files"
+            },
+            "showSearchDetails": false,
+            "searchInWorkspaceOptions": {
+              "matchCase": true,
+              "matchWholeWord": true,
+              "useRegExp": false,
+              "includeIgnored": false,
+              "include": [],
+              "exclude": [],
+              "maxResults": 2000
+            },
+            "searchTerm": "",
+            "replaceTerm": "",
+            "showReplaceField": false
+          }
+        },
+        "rank": 200,
+        "expanded": false
+      }
+    ],
+    "size": 214
+  },
+  "rightPanel": {
+    "type": "sidepanel",
+    "items": []
+  },
+  "activeWidgetId": "undefined:search-in-workspace"
+}
